@@ -2,3 +2,8 @@
 	path = patriciopa/prueba_v13_sh
 	url = git@github.com:patriciopa/prueba_v13_sh.git
 	branch = master
+
+[submodule "patriciopa/hr_reminder"]
+	path = patriciopa/hr_reminder
+	url = git@github.com:patriciopa/hr_reminder.git
+	branch = master
